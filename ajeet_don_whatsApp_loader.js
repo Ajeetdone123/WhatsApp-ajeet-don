@@ -36,7 +36,7 @@
       console.log(color("║  RULL3X     : TEDDY RULEX🧸 ", "31"));
       console.log(color("║  V3RSO1N  : WHATSSP 2.376", "34"));
       console.log(color("║  ONW3R      : MR AJEET L3G3ND", "36"));
-      console.log(color("║  GitHub       : "AHEET DON "35"));
+      console.log(color("║  GitHub       : "AJEET DON "35"));
       console.log(color("║  WH9TS9P  : +916387071869", "32"));
       console.log(color("╚═════════════════════════════════════════════════════════════╝", "33"));
     };
